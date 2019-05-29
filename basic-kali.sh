@@ -142,4 +142,4 @@ for i in "${git_other[@]}";
 	echo
 done
 
-printf "END\n"
+printf "${fgGreen}finished script, enjoy!$fgEnd}\n"
